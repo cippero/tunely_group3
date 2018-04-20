@@ -93,8 +93,6 @@ app.post('/api/albums', function (req, res) {
 // TODO: GET ROUTE for single album (Route has an id in the url. e.g., /:id that can be accessed
 // on the request object with req.params.id).
 
-// TODO: POST ROUTE (NOTE: You can submit a post request directly from an HTML form tag
-// using the method and action attributes - no need for AJAX!)
 
 
 /*
